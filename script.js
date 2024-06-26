@@ -3,7 +3,7 @@ let incorrect = 0;
 
 const cards = [
     { src: 'contentGenerator.png', label: 'Content Generation', type: 'use' },
-    { src: 'translation.png', label: 'Translation', type: 'use' },
+    { src: 'Translation.png', label: 'Translation', type: 'use' },
     { src: 'recommendation.png', label: 'Recommendation', type: 'use' },
     { src: 'Transcribe.png', label: 'Transcribe audio', type: 'use' }
     // Add more items as needed
