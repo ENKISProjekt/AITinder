@@ -2,10 +2,10 @@ let correct = 0;
 let incorrect = 0;
 
 const cards = [
-    { src: 'contentGenerator.png', label: 'Content Generation', type: 'use' },
-    { src: 'Translation.png', label: 'Translation', type: 'use' },
-    { src: 'recommendation.png', label: 'Recommendation', type: 'use' },
-    { src: 'Transcribe.png', label: 'Transcribe audio', type: 'use' }
+    { src: 'contentGenerator.png', label: 'Content Generation Systems', type: 'use' },
+    { src: 'Translation.png', label: 'Translation Systems', type: 'use' },
+    { src: 'recommendation.png', label: 'Recommendation Systems', type: 'use' },
+    { src: 'Transcribe.png', label: 'Transcribe audio Systems', type: 'use' }
     // Add more items as needed
 ];
 
